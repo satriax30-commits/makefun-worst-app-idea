@@ -1,0 +1,1 @@
+{"description":"The Worst App Idea Ever Pitched — FridgeVerse: a one-sentence pitch for an app that translates your refrigerator's hum into a daily poem.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"makefun-worst-app-idea","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
